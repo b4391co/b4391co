@@ -17,6 +17,7 @@
 ![Discord](https://img.shields.io/badge/DISCORD-b4391co-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)
 
 <h2 align="center">🧰 Tecnologías 🧰</h2>
+<div align="center">
 
 #### SISTEMAS
 
@@ -33,8 +34,11 @@
 #### BASES DE DATOS
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![OracleDB](https://img.shields.io/badge/OracleDB-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+</div>
 
 <h2 align="center">📃 Proyectos 📃</h2>
+
+<div align="center">
 
 #### Utilidades
 
@@ -48,12 +52,15 @@ Utilidades / Scripts diseñados desde cero
 [![Apuntes](https://img.shields.io/badge/DAW-yellow?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/Apuntes)
 
 Proyecto de Bastionado:
+
 [![Apuntes](https://img.shields.io/badge/Securizacion_De_Puesto_De_Trabajo-gray?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/Protyecto-SecurizacionPuestoTrabajo)
 
 Ejemplo de informe pericial:
+
 [![InformePericial](https://img.shields.io/badge/Informe_Pericial-gray?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/Proyecto-InformePericial)
 
 [![htb](https://img.shields.io/badge/HackTheBox-b4391co-blue?style=for-the-badge&logo=hackthebox&logoColor=green&labelColor=101010)](https://app.hackthebox.com/users/1390465)
+</div>
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
