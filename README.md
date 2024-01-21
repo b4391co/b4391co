@@ -21,19 +21,19 @@
 <h2 align="center">🧰 Tecnologías 🧰</h2>
 <div align="center">
 
-### SISTEMAS
+### Sistemas
 
 [![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/Bashscript-000000?style=for-the-badge&labelColor=black)]()
 
-### WEB
+### Web
 
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![php](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=red)]()
 
-### BASES DE DATOS
+### Bases de Datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![OracleDB](https://img.shields.io/badge/OracleDB-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 </div>
