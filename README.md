@@ -23,18 +23,18 @@
 
 ### SISTEMAS
 
-[![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()&nbsp
+[![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/Bashscript-000000?style=for-the-badge&labelColor=black)]()
 
 ### WEB
 
-[![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()&nbsp
-[![php](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()&nbsp
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()&nbsp
+[![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![php](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=red)]()
 
 ### BASES DE DATOS
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()&nbsp
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![OracleDB](https://img.shields.io/badge/OracleDB-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 </div>
 
@@ -46,7 +46,7 @@
 
 Utilidades / Scripts diseñados desde cero
 
-[![Baegi](https://img.shields.io/badge/Baegi-4479A1?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/baegi)&nbsp
+[![Baegi](https://img.shields.io/badge/Baegi-4479A1?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/baegi)
 [![Pi-Config](https://img.shields.io/badge/Pi_Config-red?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/Pi-Config)
 
 ### Cursos
