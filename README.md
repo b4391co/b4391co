@@ -11,10 +11,12 @@
 
 <h2 align="center">📩 Contacto 📩</h2>
 
+<div align="center">
 
 [![Twitter](https://img.shields.io/badge/X-b4391co-blue?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/b4391co)
 [![mail](https://img.shields.io/badge/MAIL-b4391co@proton&#46;me-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:b4391co@proton.me)
 ![Discord](https://img.shields.io/badge/DISCORD-b4391co-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)
+</div>
 
 <h2 align="center">🧰 Tecnologías 🧰</h2>
 <div align="center">
@@ -59,6 +61,7 @@ Ejemplo de informe pericial:
 
 [![InformePericial](https://img.shields.io/badge/Informe_Pericial-gray?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://github.com/b4391co/Proyecto-InformePericial)
 
+---
 [![htb](https://img.shields.io/badge/HackTheBox-b4391co-blue?style=for-the-badge&logo=hackthebox&logoColor=green&labelColor=101010)](https://app.hackthebox.com/users/1390465)
 </div>
 
