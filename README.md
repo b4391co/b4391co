@@ -8,6 +8,9 @@
 - 🔧 **Administrador de sistemas.**
 - :technologist: **Desarrollador de aplicaciones web.**
 - 🛡 **Curso de especialización en ciberseguridad.**
+<br>
+
+- 📁 **Dominio de entornos Unix, principalmente Debian, Arch y derivadas.**
 
 <h2 align="center">📩 Contacto 📩</h2>
 
